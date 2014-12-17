@@ -1,0 +1,1 @@
+pod 'HRSCustomErrorHandling', '~> 0.2'

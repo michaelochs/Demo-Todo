@@ -1,0 +1,10 @@
+PODS:
+  - HRSCustomErrorHandling (0.2.0)
+
+DEPENDENCIES:
+  - HRSCustomErrorHandling (~> 0.2)
+
+SPEC CHECKSUMS:
+  HRSCustomErrorHandling: 0681738c588c75aa0881e4e2b75b2e5677b43508
+
+COCOAPODS: 0.33.1
